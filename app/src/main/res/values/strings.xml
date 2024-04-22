@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LatihanConstraintLayout</string>
+    <string name="harga_produk">Rp4.299.000</string>
+    <string name="nama_produk">AirPods Pro (generasi ke-2)</string>
+    <string name="deskripsi_produk">AirPods Pro dilengkapi Peredam Kebisingan Aktif 2x lebih baik, plus Transparansi Adaptif, dan Audio Spasial Personal
+        dengan pelacakan gerakan kepala dinamis untuk suara yang menghanyutkan.
+        Kini dengan berbagai ukuran ear tip (XS, S, M, L) serta waktu dengar hingga 6 jam.</string>
+    <string name="penjual">Penjual:</string>
+    <string name="nama_penjual">Imelda Audina</string>
+    <string name="button_beli">Beli</string>
+    </resources>
